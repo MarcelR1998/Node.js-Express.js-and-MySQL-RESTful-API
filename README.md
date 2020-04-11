@@ -9,7 +9,7 @@ const myCredentials = {
     
     user: "<insert username here>",
    
-   password: "<insert password here>",
+    password: "<insert password here>",
     
     database: "<insert database here>",
 
