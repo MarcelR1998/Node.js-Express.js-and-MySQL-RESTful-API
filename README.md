@@ -4,15 +4,9 @@ looks like this and enter your own:
 
 
     const myCredentials = {
-
-    host: "<insert host here>",
-    
-    user: "<insert username here>",
-   
-    password: "<insert password here>",
-    
-    database: "<insert database here>",
-
+        host: "<insert host here>",
+        user: "<insert username here>",
+        password: "<insert password here>",
+        database: "<insert database here>",
     }
-
     module.exports = myCredentials;
